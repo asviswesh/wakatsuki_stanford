@@ -1,6 +1,6 @@
 Computational algorithms to analyze over 170,000 protein structures in the 'Protein Data Bank,' to effectively identify crucial interaction surfaces between SARS-CoV-2 NSP15 and human E3 Ubiquitin Ligase, RNF41
 <br>
-<br> Abstract In Award Winners and Abstracts of the 35th Annual Symposium of The Protein Society. Protein Society Journal. Volume 30, Issue S1. [[paper]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf) [[poster]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Stanford_Research_RNF41_SARS-CoV-2_Poster_2020.pdf)
+<br> Abstract In Award Winners and Abstracts of the 35th Annual Symposium of The Protein Society. Protein Society Journal. Volume 30, Issue S1. [[paper]](https://github.com/asviswesh/wakatsuki_stanford/blob/main/AnnikaViswesh_Biophysical_Journal_NSP15_RNF41_Abstract%2BPaper.pdf)
 
 ---
 <h3 align="center">Abstract</h3>
